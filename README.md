@@ -20,4 +20,7 @@ Enhance UX with push notifications, ability to edit/delete messages, and automat
 Would you like to dive deeper into a specific area—like architecture diagrams, tech stacks, or implementation strategi
 
 
+output
+![Image](https://github.com/user-attachments/assets/5ae8ef08-45e6-40ce-84b0-266f0ef59298)
+
 
